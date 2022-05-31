@@ -1,4 +1,4 @@
-package com.bezkoder.spring.files.upload.db.service;
+//package com.bezkoder.spring.files.upload.db.service;
 
 import java.io.IOException;
 import java.util.stream.Stream;
@@ -31,4 +31,5 @@ public class FileStorageService {
   public Stream<FileDB> getAllFiles() {
     return fileDBRepository.findAll().stream();
   }
+  
 }
