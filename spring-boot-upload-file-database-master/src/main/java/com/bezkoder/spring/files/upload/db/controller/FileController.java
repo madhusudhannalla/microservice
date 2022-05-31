@@ -32,6 +32,55 @@ import com.bezkoder.spring.files.upload.db.service.FileStorageService;
 @CrossOrigin("http://localhost:8081")
 public class FileController {
 
+	
+	
+	hghjdhjbasjbhabcjbjchjb,cbhjcjh,b
+	
+	
+	
+	
+	dshasvghcSbX HJ bXJ<hj,bxbhj,cx
+	
+	
+	
+	
+	
+	
+	
+	
+	dashCXHGhcXvh xbhXJBHjbX bjx
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 @Autowired
+	 
+	
   @Autowired
   private FileStorageService storageService;
 
